@@ -1,1 +1,3 @@
-
+Excel file uploaded is the solution for the problem of clustering Signal_Database based on GENDER ,TEST TYPE , TYPE NAME based on their frequency since all these variables are categorical.                                                                                                                                                                                                                                       
+My approach was understanding the distribution using python and filtering the dataset and creating another file for selected columns.                                                                                                                                                         
+Newly created file is used for visualizing the specified variables. 
